@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bc8d17-e031-4d77-aa5d-ce7a092da3a9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/guessingame.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial3-exception.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/birthday.py" afterPath="$PROJECT_DIR$/tutorial1-birthday.py" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" afterPath="$PROJECT_DIR$/tutorial1-calculator.py" />
-      <change beforePath="$PROJECT_DIR$/forexample.py" afterPath="$PROJECT_DIR$/tutorial2-for.py" />
-      <change beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/tutorial1-helloworld.py" />
-      <change beforePath="$PROJECT_DIR$/whileexample.py" afterPath="$PROJECT_DIR$/tutorial2-while.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,11 +45,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agetograde.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agetograde.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/agetograde.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorial3-exception.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial3-exception.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guessingame.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guessingame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -124,6 +141,9 @@
         <option value="$PROJECT_DIR$/compoudinginterest.py" />
         <option value="$PROJECT_DIR$/whileexample.py" />
         <option value="$PROJECT_DIR$/pinetree.py" />
+        <option value="$PROJECT_DIR$/tutorial3-1.py" />
+        <option value="$PROJECT_DIR$/tutorial3-exception.py" />
+        <option value="$PROJECT_DIR$/guessingame.py" />
       </list>
     </option>
   </component>
@@ -177,25 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pinetree">
-    <configuration name="agetograde" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agetograde.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.guessingame">
     <configuration name="compoudinginterest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +216,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="forexample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guessingame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -226,7 +228,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\PythonLearningWorkspace\tutorial2-for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guessingame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,6 +247,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pinetree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tutorial3-exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningWorkspace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial3-exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,19 +289,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.agetograde" />
-      <item index="1" class="java.lang.String" itemvalue="Python.forexample" />
-      <item index="2" class="java.lang.String" itemvalue="Python.compoudinginterest" />
-      <item index="3" class="java.lang.String" itemvalue="Python.whileexample" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pinetree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.compoudinginterest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.whileexample" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pinetree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
+      <item index="4" class="java.lang.String" itemvalue="Python.guessingame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pinetree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.whileexample" />
-        <item index="2" class="java.lang.String" itemvalue="Python.compoudinginterest" />
-        <item index="3" class="java.lang.String" itemvalue="Python.forexample" />
-        <item index="4" class="java.lang.String" itemvalue="Python.agetograde" />
+        <item index="0" class="java.lang.String" itemvalue="Python.guessingame" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pinetree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.whileexample" />
+        <item index="4" class="java.lang.String" itemvalue="Python.compoudinginterest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,9 +323,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14718163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14718163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -458,6 +477,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial3-exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guessingame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
