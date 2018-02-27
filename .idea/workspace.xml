@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bc8d17-e031-4d77-aa5d-ce7a092da3a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/agetograde.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/birthday.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/calculator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/compoudinginterest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/forexample.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinetree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/whileexample.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="helloworld.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helloworld.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="milestokm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/milestokm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="birthday.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/birthday.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="588">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agetograde.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agetograde.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/agetograde.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forexample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/forexample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinetree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinetree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -88,6 +79,10 @@
         <option value="$PROJECT_DIR$/calculator.py" />
         <option value="$PROJECT_DIR$/birthday.py" />
         <option value="$PROJECT_DIR$/agetograde.py" />
+        <option value="$PROJECT_DIR$/forexample.py" />
+        <option value="$PROJECT_DIR$/compoudinginterest.py" />
+        <option value="$PROJECT_DIR$/whileexample.py" />
+        <option value="$PROJECT_DIR$/pinetree.py" />
       </list>
     </option>
   </component>
@@ -111,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,6 +117,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.agetograde">
+  <component name="RunManager" selected="Python.pinetree">
     <configuration name="agetograde" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +155,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="birthday" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="compoudinginterest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -172,13 +167,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/birthday.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compoudinginterest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="forexample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -190,13 +185,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forexample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="milestokm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pinetree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -208,13 +203,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/milestokm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pinetree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whileexample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -226,26 +221,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\PythonLearningWorkspace\helloworld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileexample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.start" />
-      <item index="1" class="java.lang.String" itemvalue="Python.milestokm" />
-      <item index="2" class="java.lang.String" itemvalue="Python.calculator" />
-      <item index="3" class="java.lang.String" itemvalue="Python.birthday" />
-      <item index="4" class="java.lang.String" itemvalue="Python.agetograde" />
+      <item index="0" class="java.lang.String" itemvalue="Python.agetograde" />
+      <item index="1" class="java.lang.String" itemvalue="Python.forexample" />
+      <item index="2" class="java.lang.String" itemvalue="Python.compoudinginterest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.whileexample" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pinetree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.agetograde" />
-        <item index="1" class="java.lang.String" itemvalue="Python.birthday" />
-        <item index="2" class="java.lang.String" itemvalue="Python.calculator" />
-        <item index="3" class="java.lang.String" itemvalue="Python.milestokm" />
-        <item index="4" class="java.lang.String" itemvalue="Python.start" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pinetree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.whileexample" />
+        <item index="2" class="java.lang.String" itemvalue="Python.compoudinginterest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.forexample" />
+        <item index="4" class="java.lang.String" itemvalue="Python.agetograde" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +269,13 @@
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32513967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32513967" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -298,6 +293,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/milestokm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birthday.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agetograde.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -333,23 +368,55 @@
     <entry file="file://$PROJECT_DIR$/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/birthday.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="588">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/agetograde.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forexample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoudinginterest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileexample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinetree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
           <folding />
         </state>
       </provider>
