@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bc8d17-e031-4d77-aa5d-ce7a092da3a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/guessingame.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial3-exception.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial3-mathlibrary.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial3-string.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/unicodetranslator.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,16 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
               <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial1-birthday.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial1-birthday.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guessingame.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="guessingame.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guessingame.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -75,21 +66,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorial1-calculator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial1-calculator.py">
+      <file leaf-file-name="tutorial3-mathlibrary.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial3-mathlibrary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="336">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorial3-string.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial3-string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorial2-for.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial2-for.py">
+      <file leaf-file-name="unicodetranslator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unicodetranslator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="378">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -144,6 +147,9 @@
         <option value="$PROJECT_DIR$/tutorial3-1.py" />
         <option value="$PROJECT_DIR$/tutorial3-exception.py" />
         <option value="$PROJECT_DIR$/guessingame.py" />
+        <option value="$PROJECT_DIR$/tutorial3-mathlibrary.py" />
+        <option value="$PROJECT_DIR$/tutorial3-string.py" />
+        <option value="$PROJECT_DIR$/unicodetranslator.py" />
       </list>
     </option>
   </component>
@@ -197,25 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guessingame">
-    <configuration name="compoudinginterest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compoudinginterest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.unicodetranslator">
     <configuration name="guessingame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,24 +217,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guessingame.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pinetree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pinetree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +240,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="whileexample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tutorial3-mathlibrary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -282,26 +252,62 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\PythonLearningWorkspace\tutorial2-while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial3-mathlibrary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tutorial3-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningWorkspace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial3-string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="unicodetranslator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningWorkspace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unicodetranslator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.compoudinginterest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.whileexample" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pinetree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
-      <item index="4" class="java.lang.String" itemvalue="Python.guessingame" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
+      <item index="1" class="java.lang.String" itemvalue="Python.guessingame" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tutorial3-mathlibrary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tutorial3-string" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unicodetranslator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.guessingame" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pinetree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.whileexample" />
-        <item index="4" class="java.lang.String" itemvalue="Python.compoudinginterest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.unicodetranslator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tutorial3-string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tutorial3-mathlibrary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.guessingame" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tutorial3-exception" />
       </list>
     </recent_temporary>
   </component>
@@ -323,8 +329,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14718163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14718163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -493,6 +500,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial3-mathlibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial3-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unicodetranslator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
