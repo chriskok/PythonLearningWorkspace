@@ -16,7 +16,7 @@ def char_alpha(unicode_number):
 
 
 ori_str = input("Please enter string to encrypt: ")
-shift_num = input("Please enter number to shift by: ")
+shift_num = input("Please enter number to shift by [1-26]: ")
 shift_num = int(shift_num)
 
 # Iterate through characters and change them to a new char
@@ -30,4 +30,11 @@ for c in ori_str:
             print(chr(new_uni - 26), end="")
     else:
         print(c, end="")
+
+# Implementation notes:
+# - Could use c.isalpha(), I don't know why that didn't work earlier
+# - Can also use c.isupper() to check if it's larger than the necessary
+# but I like the use of my functions to check
+# - I didn't implement decryption which might have changed my implementation
+# - The solution used secret_message = "", and then secret_message += chr(code)
 
