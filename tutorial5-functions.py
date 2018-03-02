@@ -53,13 +53,13 @@ print("5 / 4 =", div)
 
 
 # Not sure how many arguments
-def sumAll(*args):
-    sum = 0
+def sum_all(*args):
+    summation = 0
 
     for i in args:
-        sum+=i
+        summation += i
 
-    return sum
+    return summation
 
 
-print("Sum: ", sumAll(1,2,3,4,5))
+print("Sum: ", sum_all(1, 2, 3, 4, 5))
