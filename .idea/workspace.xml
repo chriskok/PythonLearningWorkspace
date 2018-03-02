@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bc8d17-e031-4d77-aa5d-ce7a092da3a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/solveforx.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial5-functions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/primenumber.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial5-mainfunction.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/solveforx.py" afterPath="$PROJECT_DIR$/solveforx.py" />
+      <change beforePath="$PROJECT_DIR$/tutorial5-functions.py" afterPath="$PROJECT_DIR$/tutorial5-functions.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,28 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="guessingame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guessingame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial3-mathlibrary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial3-mathlibrary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tutorial3-string.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial3-string.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,21 +67,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorial5-functions.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tutorial5-functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial5-functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="403">
+              <caret line="64" column="33" lean-forward="false" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solveforx.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tutorial5-mainfunction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial5-mainfunction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="primenumber.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primenumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solveforx.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solveforx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="151">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -154,8 +154,10 @@
         <option value="$PROJECT_DIR$/tutorial4-morestringfuncs.py" />
         <option value="$PROJECT_DIR$/ceasercypher.py" />
         <option value="$PROJECT_DIR$/caesarcipher.py" />
-        <option value="$PROJECT_DIR$/tutorial5-functions.py" />
         <option value="$PROJECT_DIR$/solveforx.py" />
+        <option value="$PROJECT_DIR$/primenumber.py" />
+        <option value="$PROJECT_DIR$/tutorial5-mainfunction.py" />
+        <option value="$PROJECT_DIR$/tutorial5-functions.py" />
       </list>
     </option>
   </component>
@@ -209,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solveforx">
+  <component name="RunManager" selected="Python.tutorial5-functions">
     <configuration name="acronymgenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,8 +311,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.solveforx" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial5-functions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial5-functions" />
+        <item index="1" class="java.lang.String" itemvalue="Python.solveforx" />
         <item index="2" class="java.lang.String" itemvalue="Python.caesarcipher" />
         <item index="3" class="java.lang.String" itemvalue="Python.tutorial4-morestringfuncs" />
         <item index="4" class="java.lang.String" itemvalue="Python.acronymgenerator" />
@@ -366,22 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial4-stringfunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial4-morestringfuncs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/acronymgenerator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -742,18 +728,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial5-functions.py">
+    <entry file="file://$PROJECT_DIR$/solveforx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="151">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solveforx.py">
+    <entry file="file://$PROJECT_DIR$/primenumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="403">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial5-mainfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial5-functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="64" column="33" lean-forward="false" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
           <folding />
         </state>
       </provider>

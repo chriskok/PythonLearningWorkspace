@@ -38,3 +38,28 @@ def get_sum(num1, num2):
 
 
 print(get_sum(3,4))
+
+
+# MORE FUNCTIONS
+
+# return multiple values
+def mult_div(num1, num2):
+    return (num1 * num2), (num1/num2)
+
+
+mult, div = mult_div(5,4)
+print("5 * 4 =", mult)
+print("5 / 4 =", div)
+
+
+# Not sure how many arguments
+def sumAll(*args):
+    sum = 0
+
+    for i in args:
+        sum+=i
+
+    return sum
+
+
+print("Sum: ", sumAll(1,2,3,4,5))

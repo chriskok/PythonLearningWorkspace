@@ -29,4 +29,3 @@ print("x =", solve_x(val1, val2))
 # Create a function that takes a string, splits it there, and then makes
 # a new string "X = ans" to return. I can do that next time
 # ALSO, he used x, add, num1, equal, num2 = equation.split() SO MUCH EASIER
- 
