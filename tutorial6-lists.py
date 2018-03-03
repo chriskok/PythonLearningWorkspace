@@ -33,3 +33,17 @@ first3.append("ANOTHER")
 
 for i in first3:
     print("{} : {}". format(first3.index(i), i))
+
+randList = []
+
+for i in range(5):
+    # Note: randrange as suggested will be exclusive of the 9
+    randList.append(random.randint(1, 9))
+
+randList.sort()
+randList.reverse()
+randList.insert(5, 10)
+randList.remove(10)
+randList.pop(2)
+
+print(randList)
