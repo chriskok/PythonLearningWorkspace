@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bc8d17-e031-4d77-aa5d-ce7a092da3a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/filereading.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial8 - files2.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorial8-tuples.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filereading.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="filereading.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filereading.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorial8-tuples.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial8-tuples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -118,6 +126,7 @@
         <option value="$PROJECT_DIR$/fibonacci.py" />
         <option value="$PROJECT_DIR$/tutorial8 - files2.py" />
         <option value="$PROJECT_DIR$/filereading.py" />
+        <option value="$PROJECT_DIR$/tutorial8-tuples.py" />
       </list>
     </option>
   </component>
@@ -171,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.filereading">
+  <component name="RunManager" selected="Python.tutorial8-tuples">
     <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,24 +212,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filereading.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="tutorial7-recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial7-recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,20 +253,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="tutorial8-tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningWorkspace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial8-tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tutorial7-recursion" />
-      <item index="1" class="java.lang.String" itemvalue="Python.fibonacci" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tutorial8 - files" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tutorial8 - files2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.filereading" />
+      <item index="0" class="java.lang.String" itemvalue="Python.fibonacci" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tutorial8 - files" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tutorial8 - files2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.filereading" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tutorial8-tuples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.filereading" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial8 - files2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.fibonacci" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tutorial8 - files" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tutorial7-recursion" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial8-tuples" />
+        <item index="1" class="java.lang.String" itemvalue="Python.filereading" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tutorial8 - files2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fibonacci" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tutorial8 - files" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +315,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31620112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31620112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -328,13 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial1-helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/milestokm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -701,6 +703,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial8-tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
         </state>
       </provider>
