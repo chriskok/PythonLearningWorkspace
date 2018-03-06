@@ -14,7 +14,7 @@ import random
 
 
 class Warrior:
-    def __init__(self, name="", health="30"):
+    def __init__(self, name="Warrior", health="30"):
         self.name = name
         self.health = health
 
@@ -34,7 +34,7 @@ class Warrior:
     def deducthealth(self, value):
         self.__health = str(int(self.__health) - value)
         return int(self.__health)
-    
+
 
 def main():
     sam = Warrior("Sam", "50")
