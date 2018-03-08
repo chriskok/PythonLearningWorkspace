@@ -44,8 +44,8 @@
       <file leaf-file-name="tutorial10-inheritance.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial10-inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="58" column="64" lean-forward="false" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
+            <state relative-caret-position="197">
+              <caret line="76" column="19" lean-forward="false" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -163,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.warriorclass">
+  <component name="RunManager" selected="Python.tutorial10-inheritance">
     <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +182,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tutorial8-tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tutorial10-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,7 +194,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial8-tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial10-inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,18 +256,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.fibonacci" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tutorial8-tuples" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.warriorclass" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.warriorclass" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.warriorclass" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fibonacci" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tutorial8-tuples" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.warriorclass" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -675,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial10-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="58" column="64" lean-forward="false" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
+        <state relative-caret-position="197">
+          <caret line="76" column="19" lean-forward="false" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
           <folding />
         </state>
       </provider>
