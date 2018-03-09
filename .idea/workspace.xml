@@ -24,8 +24,18 @@
       <file leaf-file-name="tutorial11-staticmethods.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial11-staticmethods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1680">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +100,7 @@
         <option value="$PROJECT_DIR$/warriorclass.py" />
         <option value="$PROJECT_DIR$/tutorial10-inheritance.py" />
         <option value="$PROJECT_DIR$/tutorial10-magicmethods.py" />
+        <option value="$PROJECT_DIR$/sum.py" />
         <option value="$PROJECT_DIR$/tutorial11-staticmethods.py" />
       </list>
     </option>
@@ -145,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tutorial10-magicmethods">
+  <component name="RunManager" selected="Python.tutorial11-staticmethods">
     <configuration name="tutorial10-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +193,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tutorial9-objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tutorial11-staticmethods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,7 +205,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial9-objects.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial11-staticmethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,19 +248,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.warriorclass" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tutorial10-magicmethods" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.warriorclass" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tutorial10-magicmethods" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tutorial11-staticmethods" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tutorial10-magicmethods" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.warriorclass" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tutorial9-objects" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial11-staticmethods" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tutorial10-magicmethods" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tutorial10-inheritance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.warriorclass" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tutorial9-objects2" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +289,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31955308" sideWeight="0.50417536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31955308" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31955308" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -302,13 +313,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pinetree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/compoudinginterest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -657,10 +661,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial11-staticmethods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-1680">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
