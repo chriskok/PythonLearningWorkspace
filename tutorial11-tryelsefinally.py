@@ -30,7 +30,7 @@ finally:
 # test to see if you caught the exception
 
 try:
-    myFile = open("mydata2.txt", encoding="utf-8")
+    myFile = open("mydata.txt", encoding="utf-8")
 
 # We can use as to access data and methods in the
 # exception class
