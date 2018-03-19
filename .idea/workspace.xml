@@ -11,31 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="tutorial12-advfunctions.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tutorial12-advfunctions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1118">
-              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="134" selection-end-column="38" />
+            <state relative-caret-position="425">
+              <caret line="153" column="26" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="153" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fliplist.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fliplist.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fliplist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial12-funcannotations.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial12-funcannotations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="315">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -44,18 +34,8 @@
       <file leaf-file-name="tutorial12-lambda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
+            <state relative-caret-position="1029">
               <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="isitodd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/isitodd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -181,7 +161,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tutorial12-lambda">
+  <component name="RunManager" selected="Python.tutorial12-funcannotations">
+    <configuration name="fliplist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningWorkspace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fliplist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="isitodd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,24 +193,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearningWorkspace" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isitodd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="tutorial11-exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningWorkspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial11-exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,19 +253,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tutorial11-exceptions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tutorial11-tryelsefinally" />
-      <item index="2" class="java.lang.String" itemvalue="Python.isitodd" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tutorial12-funcannotations" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tutorial12-lambda" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tutorial11-tryelsefinally" />
+      <item index="1" class="java.lang.String" itemvalue="Python.isitodd" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tutorial12-funcannotations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tutorial12-lambda" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fliplist" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tutorial12-lambda" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tutorial12-funcannotations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.isitodd" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tutorial11-tryelsefinally" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tutorial11-exceptions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tutorial12-funcannotations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fliplist" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tutorial12-lambda" />
+        <item index="3" class="java.lang.String" itemvalue="Python.isitodd" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tutorial11-tryelsefinally" />
       </list>
     </recent_temporary>
   </component>
@@ -677,14 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial12-funcannotations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -693,18 +665,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
+    <entry file="file://$PROJECT_DIR$/fliplist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="134" selection-end-column="38" />
+        <state relative-caret-position="315">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fliplist.py">
+    <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="1029">
+          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="153" column="26" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="153" selection-end-column="26" />
           <folding />
         </state>
       </provider>

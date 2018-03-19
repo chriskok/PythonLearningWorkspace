@@ -6,6 +6,8 @@
 # Tails :  54
 
 # Create the list
+import random
+
 flipList = []
 
 # Populate the list with 100 Hs and Ts
