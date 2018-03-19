@@ -14,8 +14,18 @@
       <file leaf-file-name="tutorial12-advfunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="115" column="19" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="115" selection-end-column="19" />
+            <state relative-caret-position="1118">
+              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="134" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fliplist.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fliplist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -31,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorial12-lambda.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tutorial12-lambda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="509">
@@ -66,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloworld.py" />
         <option value="$PROJECT_DIR$/firstproblem.py" />
         <option value="$PROJECT_DIR$/milestokm.py" />
         <option value="$PROJECT_DIR$/calculator.py" />
@@ -117,6 +126,7 @@
         <option value="$PROJECT_DIR$/isitodd.py" />
         <option value="$PROJECT_DIR$/tutorial12-funcannotations.py" />
         <option value="$PROJECT_DIR$/tutorial12-lambda.py" />
+        <option value="$PROJECT_DIR$/fliplist.py" />
       </list>
     </option>
   </component>
@@ -304,7 +314,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31955308" sideWeight="0.50417536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31955308" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31955308" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -328,13 +338,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/agetograde.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial1-helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -674,6 +677,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial12-funcannotations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -684,16 +695,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="115" column="19" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="115" selection-end-column="19" />
+        <state relative-caret-position="1118">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="134" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial12-lambda.py">
+    <entry file="file://$PROJECT_DIR$/fliplist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        <state relative-caret-position="357">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
       </provider>
