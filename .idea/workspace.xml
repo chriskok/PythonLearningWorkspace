@@ -15,7 +15,17 @@
         <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="153" column="26" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="153" selection-end-column="26" />
+              <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tutorial12 - map.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tutorial12 - map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -56,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/firstproblem.py" />
-        <option value="$PROJECT_DIR$/milestokm.py" />
         <option value="$PROJECT_DIR$/calculator.py" />
         <option value="$PROJECT_DIR$/birthday.py" />
         <option value="$PROJECT_DIR$/agetograde.py" />
@@ -102,11 +110,13 @@
         <option value="$PROJECT_DIR$/tutorial11-staticmethods.py" />
         <option value="$PROJECT_DIR$/tutorial11-exceptions.py" />
         <option value="$PROJECT_DIR$/tutorial11-tryelsefinally.py" />
-        <option value="$PROJECT_DIR$/tutorial12-advfunctions.py" />
         <option value="$PROJECT_DIR$/isitodd.py" />
         <option value="$PROJECT_DIR$/tutorial12-funcannotations.py" />
         <option value="$PROJECT_DIR$/tutorial12-lambda.py" />
         <option value="$PROJECT_DIR$/fliplist.py" />
+        <option value="$PROJECT_DIR$/Tutorial12 - Map, Filter and Reduce.py" />
+        <option value="$PROJECT_DIR$/Tutorial12 - map.py" />
+        <option value="$PROJECT_DIR$/tutorial12-advfunctions.py" />
       </list>
     </option>
   </component>
@@ -318,13 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial1-helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/milestokm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -681,10 +684,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial12 - map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial12-advfunctions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="153" column="26" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="153" selection-end-column="26" />
+          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding />
         </state>
       </provider>
