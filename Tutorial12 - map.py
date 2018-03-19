@@ -2,6 +2,8 @@
 # Map allows us to execute a function on each item in a list
 
 # Generate a list from 1 to 10
+import random
+
 oneTo10 = range(1, 11)
 
 # The function to pass into map
